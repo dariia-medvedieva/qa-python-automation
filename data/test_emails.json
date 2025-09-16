@@ -1,0 +1,13 @@
+{
+  "valid_emails": [
+    "test@example.com",
+    "john.doe@mail.com",
+    "user_name123@domain.co.uk"
+  ],
+  "invalid_emails": [
+    "invalid-email",
+    "user@.com",
+    "@nodomain.com",
+    "justtext"
+  ]
+}
